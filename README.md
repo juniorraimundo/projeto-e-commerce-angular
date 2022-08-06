@@ -1,2 +1,3 @@
-# projeto-e-commerce-angular
-Repositório do projeto do módulo de Angular
+# Projeto: Desenvolvimento Front-end de E-commerce com Angular
+
+Repositório do projeto de desenvolvimento Front-end de um e-commerce, utilizando o Framework Angular.
